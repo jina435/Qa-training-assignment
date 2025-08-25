@@ -1,0 +1,15 @@
+Username input box
+Xpath://input[@id='user-name']
+CSS:#user-name
+
+password input box
+Xpath://input[@id='password']
+CSS:#password
+
+login button 
+Xpath;//[@id='login-button']
+CSS:#login-button
+
+error message after wrong login
+Xpath://h3[@data-test = 'error']
+CSS:h3[data-test = 'error']
